@@ -9,7 +9,6 @@
 ## 🚀 Demo
 
 [Live Preview](https://your-live-link.com)  
-📁 [Download ZIP](https://github.com/YourUsername/ImageVerse/archive/refs/heads/main.zip)
 
 ---
 
