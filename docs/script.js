@@ -25,14 +25,18 @@ window.addEventListener("DOMContentLoaded", () => {
   });
 });
 
-gsap.from(".grid-image", {
-  opacity: 0,
-  y: 50,
-  duration: 1,
-  stagger: 0.2,
-  ease: "power2.out",
-  delay: 1.2,
-});
+gsap.fromTo(".grid-image",
+  { opacity: 0, y: 50 },
+  {
+    opacity: 1,
+    y: 0,
+    duration: 1,
+    stagger: 0.2,
+    ease: "power2.out",
+    delay: 1.2,
+    clearProps: "transform"
+  }
+);
 
 gsap.from(".images-title", {
     y: -30,
