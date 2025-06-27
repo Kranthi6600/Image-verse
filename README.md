@@ -8,7 +8,7 @@
 
 ## 🚀 Demo
 
-[Live Preview](https://your-live-link.com)  
+[Live Preview]([https://your-live-link.com](https://kranthi6600.github.io/Image-verse/))  
 
 ---
 
